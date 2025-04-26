@@ -30,7 +30,7 @@ export function NotificationsSkeleton() {
                     <Skeleton className="h-4 w-24" />
                   </div>
                 </div>
-              </div>
+              </div> 
             ))}
           </ScrollArea>
         </CardContent>
