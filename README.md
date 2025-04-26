@@ -2,7 +2,7 @@
 
 Experience a social networking platform where users can share moments, connect with friends, and engage in meaningful interactions. Built with cutting-edge technologies like Next.js 13+ and TypeScript, offering real-time updates, seamless media sharing, and a responsive user experience.
 
-![App Screenshot](public/screenshot-for-readme.png)
+<img src="./public/Screenshot.png" alt="App Screenshot" width="800" height="auto" />
 
 ## ✨ Core Features
 
